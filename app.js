@@ -1,4 +1,3 @@
-<script>
 
 /* 
 Calculate the Sum and average Of the user entered values 
@@ -25,6 +24,3 @@ while(!quit){
 
 }
 
-
-
-</script>
